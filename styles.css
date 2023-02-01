@@ -1,0 +1,55 @@
+.sec-1 {
+  background-image: linear-gradient(to bottom right, rgb(0, 255, 255), rgb(2, 31, 85));
+  padding-bottom: 90px;
+}
+
+h1 {
+  display: block;
+  color: black;
+  font-size: 50px;
+  padding-top: 50px;
+  margin: 0px;
+}
+
+html{
+  margin: 0px;
+}
+
+body {
+  margin: 0px;
+}
+
+.welcome-txt {
+  display: flex;
+  padding-bottom: 20px;
+}
+
+.wlcm-txt {
+  display: flex;
+  flex-direction: row;
+  flex: 1 1 auto;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.header-img-and-link {
+  display: flex;
+  justify-content: center;
+  
+}
+
+.abt {
+  display: flex;
+  align-self: flex-start;
+  padding-left: 20px;
+}
+
+.photo {
+  display: flex;
+  align-self: flex-end;
+  padding-left: 0px;
+}
+
+img {
+  display: flex;
+}
